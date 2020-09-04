@@ -12,26 +12,26 @@ Understand Javascript concepts with neat code & simple words
 
 ## 2. Optional-Chaining (?)
 
-![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/optional-chaining%20(%3F).jpg?raw=true)
+![Optional-Chaining (?)](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/optional-chaining%20(%3F).jpg?raw=true)
 
 
 ## 3. Nullish-coalescing-operator (??)
 
-![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/nullish-coalescing-operator.jpg?raw=true)
+![Nullish-coalescing-operator (??)](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/nullish-coalescing-operator.jpg?raw=true)
 
 
 ## 4. || vs ?? [OR operator vs Nullish coalescing operator]
 
-![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/%3F%3F%20vs%20%7C%7C.jpg?raw=true)
+![|| vs ?? [OR operator vs Nullish coalescing operator]](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/%3F%3F%20vs%20%7C%7C.jpg?raw=true)
 
 ## 5. Easiest way to handle error in async-await 
 
-![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/handle%20async%20await%20error.jpg?raw=true)
+![Easiest way to handle error in async-await](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/handle%20async%20await%20error.jpg?raw=true)
 
 
 ## 6. Add script dynamically
 
-![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/add-script-dynamically.jpg?raw=true)
+![Add script dynamically](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/add-script-dynamically.jpg?raw=true)
 
 
 ```
