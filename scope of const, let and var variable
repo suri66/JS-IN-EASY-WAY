@@ -1,0 +1,34 @@
+JavaScript: Understanding scope of const, let and var variable
+
+
+const (Block-Scope)
+
+function print() {
+    if (true){
+        const msg = 'Hello World';
+        console.log(msg); // Hello World
+    }
+    console.log(msg); // refenrece err
+}
+
+
+let (Block-Scope)
+
+function print() {
+    if (true){
+        let msg = 'Hello World';
+        console.log(msg); // Hello World
+    }
+    console.log(msg); // refenrece err
+}
+
+var (function-Scope)
+
+function print() {
+    if (true){
+        var msg = 'Hello World';
+        console.log(msg); // Hello World
+    }
+    console.log(msg); // Hello World
+}
+console.log(msg); // refenrece err
