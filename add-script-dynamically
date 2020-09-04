@@ -1,0 +1,23 @@
+
+
+    JavaScript: Add script dynamically
+    --------------------------------------------------- 
+
+    function loadScript(src) {
+        let script = document.createElement('script');
+        script.src = src;    
+        document.body.append(script);
+    }
+    
+    loadScript("script.js");
+    loadScript("www.google.com/script.js");
+
+                                        Follow: @catchme822
+
+
+
+
+
+
+
+

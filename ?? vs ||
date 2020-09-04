@@ -1,0 +1,23 @@
+
+
+
+    Javascript: || vs ?? [OR operator vs Nullish coalescing operator]
+
+    let number = 0;
+
+    alert(number || 100); // 100
+    alert(number ?? 100); // 0
+
+    || returns the first truthy value.
+    ?? returns the first defined value.
+                    
+
+
+
+
+
+
+
+
+
+
