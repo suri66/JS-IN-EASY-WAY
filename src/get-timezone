@@ -1,0 +1,17 @@
+
+
+    JavaScript: Get timezone using JavaScript function                                                 
+    ---------------------------------------------------                                                  
+
+
+     console.log(Intl.DateTimeFormat().resolvedOptions().timeZone);
+
+
+                                               Follow: @catchme822                                                                            
+
+
+
+
+
+
+
