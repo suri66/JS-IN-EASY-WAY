@@ -34,9 +34,9 @@ Understand Javascript concepts with neat code & simple words
 ![Add script dynamically](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/add-script-dynamically.jpg?raw=true)
 
 
-## 7. Format Date Time with javascript
+## 7. Format Date and Time with javascript
 
-![Format Date Time with javascript](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/formate-date-time-js.jpg?raw=true)
+![Format Date and Time with javascript](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/formate-date-time-js.jpg?raw=true)
 
 
 
