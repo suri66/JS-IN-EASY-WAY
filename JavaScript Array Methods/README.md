@@ -1,8 +1,6 @@
-# JS-IN-EASY-WAY
+# JavaScript Array Methods
 
-```
-JavaScript Array Methods
-```
+`Social Links`: &nbsp;[Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
 
 ## 1. forEach
 
@@ -56,9 +54,6 @@ JavaScript Array Methods
 
 ![Get Timezone with javascript](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/JavaScript%20Array%20Methods/images/Array.from.png?raw=true)
 
-<br />
-
-`Social Links`: &nbsp;[Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
 
 [1]: https://www.surjeetbhadauriya.com
 [2]: https://twitter.com/catchme822
