@@ -1,6 +1,6 @@
 # JavaScript Array Methods
 
-`Social Links`: &nbsp;[Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
+`Social Links`: &nbsp; [YouTube][8] | [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
 
 ## 1. forEach
 
@@ -62,3 +62,4 @@
 [5]: https://www.instagram.com/beingsurjeet/
 [6]: https://www.facebook.com/surjeetsingh.bhadauriya
 [7]: https://stackoverflow.com/users/5939058/surjeet-bhadauriya?tab=profile
+[8]: https://www.youtube.com/channel/UCuZjuJzMLeJi3SW4qd8-Vlg
