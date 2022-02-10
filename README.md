@@ -14,35 +14,33 @@ Understand Javascript concepts with neat code & simple words
 <img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/var.png?raw=true" width="70%" />
 </div>
 
-<!-- ![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/scope%20of%20const%2C%20let%20and%20var%20variable.jpg?raw=true) -->
-
 ## 2. Optional-Chaining (?)
 
-![Optional-Chaining (?)](<https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/optional-chaining%20(%3F).jpg?raw=true>)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/Optional chaining.png?raw=true" width="70%" />
 
 ## 3. Nullish-coalescing-operator (??)
 
-![Nullish-coalescing-operator (??)](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/nullish-coalescing-operator.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/Nullish-coalescing-operator.png?raw=true" width="70%" />
 
 ## 4. || vs ?? [OR operator vs Nullish coalescing operator]
 
-![|| vs ?? [OR operator vs Nullish coalescing operator]](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/%3F%3F%20vs%20%7C%7C.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/%3F%3F%20vs%20%7C%7C.png?raw=true" width="70%" />
 
 ## 5. Easiest way to handle error in async-await
 
-![Easiest way to handle error in async-await](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/handle%20async%20await%20error.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/async-await-error-handling.png?raw=true" width="70%" />
 
 ## 6. Add script dynamically
 
-![Add script dynamically](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/add-script-dynamically.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/add-script-dynamically.png?raw=true" width="70%" />
 
 ## 7. Format Date and Time with javascript
 
-![Format Date and Time with javascript](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/formate-date-time-js.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/format-date-time.png?raw=true" width="70%" />
 
 ## 8. Get Timezone with javascript
 
-![Get Timezone with javascript](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/get-timezone.jpg?raw=true)
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/get-time-zone.png?raw=true" width="70%" />
 
 ```
 Stay connected, many more to come..
