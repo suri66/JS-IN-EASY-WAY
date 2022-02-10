@@ -6,12 +6,12 @@ Understand Javascript concepts with neat code & simple words
 
 ## 1. Scope of const, let, and var
 
-<div style="display: flex">
-<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/const.png?raw=true" width="30%" />
-&nbsp;&nbsp;
-<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/let.png?raw=true" width="30%" />
-&nbsp;&nbsp;
-<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/var.png?raw=true" width="30%" />
+<div>
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/const.png?raw=true" width="70%" />
+
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/let.png?raw=true" width="70%" />
+
+<img src="https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/var.png?raw=true" width="70%" />
 </div>
 
 <!-- ![Scope of const, let, and var](https://github.com/suri66/JS-IN-EASY-WAY/blob/master/images/scope%20of%20const%2C%20let%20and%20var%20variable.jpg?raw=true) -->
