@@ -6,15 +6,14 @@
 
 > Checkout the below links:
 
-<br />
-
 ## <a href="https://github.com/suri66/JS-IN-EASY-WAY/tree/master/JavaScript%20Array%20Methods">JavaScript Array Methods</a>
 ## <a href="https://github.com/suri66/JS-IN-EASY-WAY/tree/master/JS-IN-EASY-WAY">JS In Easy Way</a>
 
 <br />
 
-`Social Links`: &nbsp; [YouTube][8] | [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
-
+<center>
+[YouTube][8] | [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
+</center>
 
 [1]: https://www.surjeetbhadauriya.com
 [2]: https://twitter.com/catchme822
