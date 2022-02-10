@@ -11,9 +11,7 @@
 
 <br />
 
-<center>
-[YouTube][8] | [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
-</center>
+Get In Touch: [YouTube][8] | [Stack Overflow][7] | [Twitter][2] | [Linked In][3] | [Github][4] | [Instagram][5] | [Facebook][6]
 
 [1]: https://www.surjeetbhadauriya.com
 [2]: https://twitter.com/catchme822
