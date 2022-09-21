@@ -1,4 +1,4 @@
 .hero__caption{
-  padding: 0px;
-  background-color: #000000;
+  padding: 0px !important;
+  background-color: #000000 !important;
 }
